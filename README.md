@@ -5,9 +5,7 @@ A Claude Code plugin that generates production-ready [Maestro](https://maestro.m
 ## Installation
 
 ```bash
-claude plugin add /path/to/maestro-skill
-# or from Git
-claude plugin add https://github.com/YOUR_USERNAME/maestro-skill.git
+claude plugin add https://github.com/eagleisbatman/maestro-skill.git
 ```
 
 ## What It Does
